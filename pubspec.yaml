@@ -1,0 +1,50 @@
+name: para_socios_1
+description: Descuentos exclusivos para socios..
+
+
+publish_to: 'none'
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  flutter_form_builder: ^7.6.0
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  flutter_native_splash: ^2.2.8
+  dio: ^4.0.6
+  logger: ^1.1.0
+  http: any
+
+  
+
+
+  
+dev_dependencies: 
+  flutter_launcher_icons: "^0.10.0"
+  flutter_test:
+    sdk: flutter
+    
+  flutter_lints: ^2.0.0
+
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/anto.png"
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: "assets/splash.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - json/
+
+

@@ -1,0 +1,161 @@
+
+[
+    {
+        "brand": "Ana Noriega Nutricion clinica",        
+        "status": false,
+        "offer": "Consulta por $350",
+        "categoria": 3,
+        "descripsion":"Consulta nutricional en línea",
+        "domicilio": "nutri.ananoriega@gmail.com",
+        "telefono": "55486684243",
+        "cuponDesc": "Con este cupon obtienes un \ndescuento en tu consulta. \nPresio regular de la consulta: \n$550 ",
+        "restricciones": "Valido solo comumunicandote \nvia whatsapp al numero de esta empresa.",
+        "imagenemp": "assets/nutnoriega.jpg"
+    },
+    {
+        "brand": "Protocolo de salud integral",        
+        "status": false,
+        "offer": "15%",
+        "categoria": 3,
+        "descripsion":"Vitaminas y desinfectantes",
+        "domicilio": "guerraohart@yahoo.com",
+        "telefono": "4423519327",
+        "cuponDesc": "Este cupon es valido por \nun 15% de descuento en tu \ncompra directo en tienda",
+        "restricciones": "Este cupon es valido hasta el 13 de octubre.",
+        "imagenemp": "assets/psi.jpg"
+    
+    },
+    {
+        "brand": "Dinamo Motos",
+        "status": false,
+        "offer": "10% de enganche",
+        "categoria": 1,
+        "descripsion":"Esta es la descripsion de la primera empresa y sera diferente que la descripsion de la segunda empresa",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "3336587904",
+        "cuponDesc": "Este cupon es valido por un 10% de descuento en tu compra directo en tienda",
+        "restricciones": "Este cupon es valido hasta el 12 de octubre.",
+        "imagenemp": "assets/dinamo.png"
+    
+    },
+    {
+        "brand": "Casa funeral san fransisco",
+        "status": false,
+        "offer": "10% en pago inicial ",
+        "categoria": 1,
+        "descripsion":"Esta es la descripsion de la primera empresa y sera diferente que la descripsion de la segunda empresa",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "3300112233",
+        "cuponDesc": "Este cupon es valido por un 10% de descuento en tu compra directo en tienda",
+        "restricciones": "Este cupon es valido hasta el 11 de octubre.",
+        "imagenemp": "assets/sanfran.png"
+    
+    },
+    {
+        "brand": "Sentido",
+        "status": false,
+        "offer": "consulta Gratis",
+        "categoria": 3,
+        "descripsion":"Centro integral de psicoterapia",
+        "domicilio": "Cerro de Acasulco 91, Col. Colinas del Cimatario \nC.P.76090 Querétaro, Qro.",
+        "telefono": "4421612039",
+        "cuponDesc": "Tu primer consulta en linea sera totalmente gratuita",
+        "restricciones": "Este cupon es valido hasta el 10 de octubre.",
+        "imagenemp": "assets/sentido.jpg"
+
+
+    
+    },
+    {
+        "brand": "REDsports",
+        "status": false,
+        "offer": "5% adicional",
+        "categoria": 2,
+        "descripsion":"Tienda de ropa especializada en deportes ",
+        "domicilio": "Av Revolucion #194 col Analco",
+        "telefono": "3336172189",
+        "cuponDesc": "Este cupon es valido por un 5% \nde descuento adicional en \ntu compra directo en tienda",
+        "restricciones": "Este cupon no aplica con mercancia en liquidacion con 40-50%.",
+        "imagenemp": "assets/redsports.jpg"
+
+    
+    },
+    {
+        "brand": "Mosaico Horticola Casero",
+        "status": false,
+        "offer": "15 a 20%",
+        "categoria": 1,
+        "descripsion": "cursos de capacitacion para la produccion casera en la modalidad de MHC \nAsesoria en el desarrollo y mantenimiento de proyectos horticolas. \nInsumos para la produccion horticola casera.  ",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "4423519327",
+        "cuponDesc": "Este cupon es valido por un 15% a 20% de descuento dependiendo el servicio o insumo adquirido",
+        "restricciones": "Este cupon es valido hasta el 8 de octubre.",
+        "imagenemp": "assets/mhc.png"
+    
+    },
+    {
+        "brand": "Travel Finestre",
+        "status": false,
+        "offer": "$400",
+        "categoria": 1,
+        "descripsion":"Esta es la descripsion de la primera empresa y sera diferente que la descripsion de la segunda empresa",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "3321206853",
+        "cuponDesc": "Este cupon es valido por un  descuento de $400 en tu compra del tour tequilero",
+        "restricciones": "Solo aplica en el tour tequilero.",
+        "imagenemp": "assets/travel.png"
+    
+    },
+    {
+        "brand": "C.S. Madajul",
+        "status": false,
+        "offer": "5%",
+        "categoria": 1,
+        "descripsion":"Mobiliario sobre pedido y a medida.",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "5555440010",
+        "cuponDesc": "Este cupon es valido por un 5% de descuento en todas la sillas",
+        "restricciones": "Este cupon es valido hasta el 6 de octubre.",
+        "imagenemp": "assets/madajul.png"
+    
+    },
+    {
+        "brand": "hogar",
+        "status": false,
+        "offer": "15%",
+        "categoria": 4,
+        "descripsion":"Esta es la descripsion de la primera empresa y sera diferente que la descripsion de la segunda empresa",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "3300112233",
+        "cuponDesc": "Este cupon es valido por un 10% de descuento en tu compra directo en tienda",
+        "restricciones": "Este cupon es valido hasta el 5 de octubre.",
+        "imagenemp": "assets/anto.png"
+    
+    },
+    {
+        "brand": "Otrmoda2o2",
+        "status": false,
+        "offer": "15%",
+        "categoria": 4,
+        "descripsion":"Esta es la descripsion de la primera empresa y sera diferente que la descripsion de la segunda empresa",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "3300112233",
+        "cuponDesc": "Este cupon es valido por un 10% de descuento en tu compra directo en tienda",
+        "restricciones": "Este cupon es valido hasta el 4 de octubre.",
+        "imagenemp": "assets/anto.png"
+    
+    },
+    {
+        "brand": "salud3",
+        "status": false,
+        "offer": "15%",
+        "categoria": 4,
+        "descripsion":"Esta es la descripsion de la primera empresa y sera diferente que la descripsion de la segunda empresa",
+        "domicilio": "Av acueducto #1234 col.centro gdl",
+        "telefono": "3300112233",
+        "cuponDesc": "Este cupon es valido por un 10% de descuento en tu compra directo en tienda",
+        "restricciones": "Este cupon es valido hasta el 3 de octubre.",
+        "imagenemp": "assets/anto.png"
+    
+}
+    ]
